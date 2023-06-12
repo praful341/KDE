@@ -15,6 +15,7 @@ namespace KDE
     {
         SqlConnection con = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["KDEConnectionString"].ConnectionString);
 
+
         #region " Data Members "
         #endregion
 
